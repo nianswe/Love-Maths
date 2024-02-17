@@ -24,7 +24,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 function rungame() {
-
+    let num1 = Math.floor(Math.random() * 25);
+    let num2 = Math.floor(Math.random() * 25);
 }
 
 function checkAnswer() {
